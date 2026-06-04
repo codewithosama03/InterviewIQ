@@ -225,8 +225,6 @@ This is a real-world learning-focused MERN + AI project.
 
 Frontend: https://interview-iq-rouge.vercel.app/
 
-Backend API: https://interviewiq-3fs8.onrender.com
-
 ## Status
 
 Project Status: Active Development
