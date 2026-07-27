@@ -136,7 +136,7 @@ The project demonstrates a complete end-to-end workflow including frontend UI de
 
 ### Analytics section
 
-![Mock Interview](./frontend/src/assets/analytics.png)
+![Mock Interview](../frontend/src/assets/analytics.png)
 
 ### Resume Analyzer
 
