@@ -124,24 +124,6 @@ The project demonstrates a complete end-to-end workflow including frontend UI de
 * Render (Backend Deployment)
 * Vercel (Frontend Deployment)
 
-## Screenshots
-
-### Landing Page
-
-![Landing Page](./frontend/src/assests/landingpage.png)
-
-### Interview Dashboard
-
-![Interview Dashboard](./frontend/src/assests/dashboard.png)
-
-### Analytics section
-
-![Mock Interview](./frontend/src/assests/analytics.png)
-
-### Resume Analyzer
-
-![Resume Analyzer](./frontend/src/assests/resume.png)
-
 ## Learning Outcome
 
 * Building a production-style MERN application
