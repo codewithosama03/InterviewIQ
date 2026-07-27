@@ -128,19 +128,19 @@ The project demonstrates a complete end-to-end workflow including frontend UI de
 
 ### Landing Page
 
-![Landing Page](./frontend/src/assests/landingpage.png)
+![Landing Page](./frontend/src/assets/landingpage.png)
 
 ### Interview Dashboard
 
-![Interview Dashboard](./frontend/src/assests/dashboard.png)
+![Interview Dashboard](./frontend/src/assets/dashboard.png)
 
 ### Analytics section
 
-![Mock Interview](./frontend/src/assests/analytics.png)
+![Mock Interview](./frontend/src/assets/analytics.png)
 
 ### Resume Analyzer
 
-![Resume Analyzer](./frontend/src/assests/resume.png)
+![Resume Analyzer](./frontend/src/assets/resume.png)
 
 ## Learning Outcome
 
