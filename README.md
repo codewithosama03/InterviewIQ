@@ -119,6 +119,39 @@ The project demonstrates a complete end-to-end workflow including frontend UI de
 * Lucide React Icons
 * Vite
 
+## Screenshots
+
+### Landing Page
+
+<p align="center">
+  <img src="./frontend/src/assets/landingpage.png" alt="Landing Page" width="900">
+</p>
+
+---
+
+### Dashboard
+
+<p align="center">
+  <img src="./frontend/src/assets/dashboard.png" alt="Dashboard" width="900">
+</p>
+
+---
+
+### Interview Analytics
+
+<p align="center">
+  <img src="./frontend/src/assets/analytics.png" alt="Interview Analytics" width="900">
+</p>
+
+---
+
+### Resume Analysis
+
+<p align="center">
+  <img src="./frontend/src/assets/resume.png" alt="Resume Analysis" width="900">
+</p>
+
+
 ## Deployment
 
 * Render (Backend Deployment)
