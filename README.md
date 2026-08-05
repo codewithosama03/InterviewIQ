@@ -118,13 +118,12 @@ The project demonstrates a complete end-to-end workflow including frontend UI de
 * Axios
 * Lucide React Icons
 * Vite
-
 ## Screenshots
 
 ### Landing Page
 
 <p align="center">
-  <img src="./frontend/src/assets/landingpage.png" alt="Landing Page" width="900">
+  <img src="frontend/src/assests/landingpage.png" alt="Landing Page" width="900"/>
 </p>
 
 ---
@@ -132,7 +131,7 @@ The project demonstrates a complete end-to-end workflow including frontend UI de
 ### Dashboard
 
 <p align="center">
-  <img src="./frontend/src/assets/dashboard.png" alt="Dashboard" width="900">
+  <img src="frontend/src/assests/dashboard.png" alt="Dashboard" width="900"/>
 </p>
 
 ---
@@ -140,7 +139,7 @@ The project demonstrates a complete end-to-end workflow including frontend UI de
 ### Interview Analytics
 
 <p align="center">
-  <img src="./frontend/src/assets/analytics.png" alt="Interview Analytics" width="900">
+  <img src="frontend/src/assests/analytics.png" alt="Interview Analytics" width="900"/>
 </p>
 
 ---
@@ -148,7 +147,7 @@ The project demonstrates a complete end-to-end workflow including frontend UI de
 ### Resume Analysis
 
 <p align="center">
-  <img src="./frontend/src/assets/resume.png" alt="Resume Analysis" width="900">
+  <img src="frontend/src/assests/resume.png" alt="Resume Analysis" width="900"/>
 </p>
 
 
